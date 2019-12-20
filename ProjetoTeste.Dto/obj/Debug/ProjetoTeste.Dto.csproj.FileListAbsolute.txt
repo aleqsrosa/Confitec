@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Dto\bin\Debug\ProjetoTeste.Dto.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Dto\bin\Debug\ProjetoTeste.Dto.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Dto\bin\Debug\Common.Dto.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Dto\obj\Debug\ProjetoTeste.Dto.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Dto\obj\Debug\ProjetoTeste.Dto.csproj.CopyComplete
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Dto\obj\Debug\ProjetoTeste.Dto.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Dto\obj\Debug\ProjetoTeste.Dto.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Dto\bin\Debug\ProjetoTeste.Dto.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Dto\bin\Debug\ProjetoTeste.Dto.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Dto\bin\Debug\Common.Dto.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Dto\obj\Debug\ProjetoTeste.Dto.csproj.CopyComplete
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Dto\obj\Debug\ProjetoTeste.Dto.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Dto\obj\Debug\ProjetoTeste.Dto.pdb

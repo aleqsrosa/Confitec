@@ -1,0 +1,695 @@
+Info 19/12/2019 22:53:22 - Opened connection at 19/12/2019 22:53:22 -03:00
+
+Info 19/12/2019 22:53:24 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 22:53:24 - 
+
+Info 19/12/2019 22:53:24 - -- Executing at 19/12/2019 22:53:24 -03:00
+
+Info 19/12/2019 22:53:24 - -- Completed in 21 ms with result: SqlDataReader
+
+Info 19/12/2019 22:53:24 - 
+
+Info 19/12/2019 22:53:24 - Closed connection at 19/12/2019 22:53:24 -03:00
+
+Info 19/12/2019 22:53:24 - Opened connection at 19/12/2019 22:53:24 -03:00
+
+Info 19/12/2019 22:53:24 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 22:53:24 - 
+
+Info 19/12/2019 22:53:24 - -- Executing at 19/12/2019 22:53:24 -03:00
+
+Info 19/12/2019 22:53:24 - -- Completed in 18 ms with result: SqlDataReader
+
+Info 19/12/2019 22:53:24 - 
+
+Info 19/12/2019 22:53:24 - Closed connection at 19/12/2019 22:53:24 -03:00
+
+Info 19/12/2019 22:54:20 - Opened connection at 19/12/2019 22:54:20 -03:00
+
+Info 19/12/2019 22:54:20 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 22:54:20 - 
+
+Info 19/12/2019 22:54:20 - -- Executing at 19/12/2019 22:54:20 -03:00
+
+Info 19/12/2019 22:54:20 - -- Completed in 2 ms with result: SqlDataReader
+
+Info 19/12/2019 22:54:20 - 
+
+Info 19/12/2019 22:54:20 - Closed connection at 19/12/2019 22:54:20 -03:00
+
+Info 19/12/2019 22:54:20 - Opened connection at 19/12/2019 22:54:20 -03:00
+
+Info 19/12/2019 22:54:20 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 22:54:20 - 
+
+Info 19/12/2019 22:54:20 - -- Executing at 19/12/2019 22:54:20 -03:00
+
+Info 19/12/2019 22:54:20 - -- Completed in 4 ms with result: SqlDataReader
+
+Info 19/12/2019 22:54:20 - 
+
+Info 19/12/2019 22:54:20 - Closed connection at 19/12/2019 22:54:20 -03:00
+
+Info 19/12/2019 22:54:25 - Opened connection at 19/12/2019 22:54:25 -03:00
+
+Info 19/12/2019 22:54:25 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 22:54:25 - 
+
+Info 19/12/2019 22:54:25 - -- Executing at 19/12/2019 22:54:25 -03:00
+
+Info 19/12/2019 22:54:25 - -- Completed in 0 ms with result: SqlDataReader
+
+Info 19/12/2019 22:54:25 - 
+
+Info 19/12/2019 22:54:25 - Closed connection at 19/12/2019 22:54:25 -03:00
+
+Info 19/12/2019 22:54:25 - Opened connection at 19/12/2019 22:54:25 -03:00
+
+Info 19/12/2019 22:54:25 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 22:54:25 - 
+
+Info 19/12/2019 22:54:25 - -- Executing at 19/12/2019 22:54:25 -03:00
+
+Info 19/12/2019 22:54:25 - -- Completed in 0 ms with result: SqlDataReader
+
+Info 19/12/2019 22:54:25 - 
+
+Info 19/12/2019 22:54:25 - Closed connection at 19/12/2019 22:54:25 -03:00
+
+Info 19/12/2019 22:57:18 - Opened connection at 19/12/2019 22:57:18 -03:00
+
+Info 19/12/2019 22:57:18 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 22:57:18 - 
+
+Info 19/12/2019 22:57:18 - -- Executing at 19/12/2019 22:57:18 -03:00
+
+Info 19/12/2019 22:57:18 - -- Completed in 1 ms with result: SqlDataReader
+
+Info 19/12/2019 22:57:18 - 
+
+Info 19/12/2019 22:57:18 - Closed connection at 19/12/2019 22:57:18 -03:00
+
+Info 19/12/2019 22:57:18 - Opened connection at 19/12/2019 22:57:18 -03:00
+
+Info 19/12/2019 22:57:18 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 22:57:18 - 
+
+Info 19/12/2019 22:57:18 - -- Executing at 19/12/2019 22:57:18 -03:00
+
+Info 19/12/2019 22:57:18 - -- Completed in 2 ms with result: SqlDataReader
+
+Info 19/12/2019 22:57:18 - 
+
+Info 19/12/2019 22:57:18 - Closed connection at 19/12/2019 22:57:18 -03:00
+
+Info 19/12/2019 22:57:23 - Opened connection at 19/12/2019 22:57:23 -03:00
+
+Info 19/12/2019 22:57:23 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 22:57:23 - 
+
+Info 19/12/2019 22:57:23 - -- Executing at 19/12/2019 22:57:23 -03:00
+
+Info 19/12/2019 22:57:23 - -- Completed in 0 ms with result: SqlDataReader
+
+Info 19/12/2019 22:57:23 - 
+
+Info 19/12/2019 22:57:23 - Closed connection at 19/12/2019 22:57:23 -03:00
+
+Info 19/12/2019 22:57:23 - Opened connection at 19/12/2019 22:57:23 -03:00
+
+Info 19/12/2019 22:57:23 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 22:57:23 - 
+
+Info 19/12/2019 22:57:23 - -- Executing at 19/12/2019 22:57:23 -03:00
+
+Info 19/12/2019 22:57:23 - -- Completed in 1 ms with result: SqlDataReader
+
+Info 19/12/2019 22:57:23 - 
+
+Info 19/12/2019 22:57:23 - Closed connection at 19/12/2019 22:57:23 -03:00
+
+Info 19/12/2019 22:58:13 - Opened connection at 19/12/2019 22:58:13 -03:00
+
+Info 19/12/2019 22:58:13 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 22:58:13 - 
+
+Info 19/12/2019 22:58:13 - -- Executing at 19/12/2019 22:58:13 -03:00
+
+Info 19/12/2019 22:58:13 - -- Completed in 4 ms with result: SqlDataReader
+
+Info 19/12/2019 22:58:13 - 
+
+Info 19/12/2019 22:58:13 - Closed connection at 19/12/2019 22:58:13 -03:00
+
+Info 19/12/2019 22:58:13 - Opened connection at 19/12/2019 22:58:13 -03:00
+
+Info 19/12/2019 22:58:13 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 22:58:13 - 
+
+Info 19/12/2019 22:58:13 - -- Executing at 19/12/2019 22:58:13 -03:00
+
+Info 19/12/2019 22:58:13 - -- Completed in 4 ms with result: SqlDataReader
+
+Info 19/12/2019 22:58:13 - 
+
+Info 19/12/2019 22:58:13 - Closed connection at 19/12/2019 22:58:13 -03:00
+
+Info 19/12/2019 23:01:05 - Opened connection at 19/12/2019 23:01:05 -03:00
+
+Info 19/12/2019 23:01:05 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 23:01:05 - 
+
+Info 19/12/2019 23:01:05 - -- Executing at 19/12/2019 23:01:05 -03:00
+
+Info 19/12/2019 23:01:05 - -- Completed in 5 ms with result: SqlDataReader
+
+Info 19/12/2019 23:01:05 - 
+
+Info 19/12/2019 23:01:05 - Closed connection at 19/12/2019 23:01:05 -03:00
+
+Info 19/12/2019 23:01:05 - Opened connection at 19/12/2019 23:01:05 -03:00
+
+Info 19/12/2019 23:01:05 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 23:01:05 - 
+
+Info 19/12/2019 23:01:05 - -- Executing at 19/12/2019 23:01:05 -03:00
+
+Info 19/12/2019 23:01:05 - -- Completed in 3 ms with result: SqlDataReader
+
+Info 19/12/2019 23:01:05 - 
+
+Info 19/12/2019 23:01:05 - Closed connection at 19/12/2019 23:01:05 -03:00
+
+Info 19/12/2019 23:01:09 - Opened connection at 19/12/2019 23:01:09 -03:00
+
+Info 19/12/2019 23:01:09 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 23:01:09 - 
+
+Info 19/12/2019 23:01:09 - -- Executing at 19/12/2019 23:01:09 -03:00
+
+Info 19/12/2019 23:01:09 - -- Completed in 1 ms with result: SqlDataReader
+
+Info 19/12/2019 23:01:09 - 
+
+Info 19/12/2019 23:01:09 - Closed connection at 19/12/2019 23:01:09 -03:00
+
+Info 19/12/2019 23:01:09 - Opened connection at 19/12/2019 23:01:09 -03:00
+
+Info 19/12/2019 23:01:09 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 23:01:09 - 
+
+Info 19/12/2019 23:01:09 - -- Executing at 19/12/2019 23:01:09 -03:00
+
+Info 19/12/2019 23:01:09 - -- Completed in 0 ms with result: SqlDataReader
+
+Info 19/12/2019 23:01:09 - 
+
+Info 19/12/2019 23:01:09 - Closed connection at 19/12/2019 23:01:09 -03:00
+
+Info 19/12/2019 23:05:22 - Opened connection at 19/12/2019 23:05:22 -03:00
+
+Info 19/12/2019 23:05:22 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 23:05:22 - 
+
+Info 19/12/2019 23:05:22 - -- Executing at 19/12/2019 23:05:22 -03:00
+
+Info 19/12/2019 23:05:22 - -- Completed in 4 ms with result: SqlDataReader
+
+Info 19/12/2019 23:05:22 - 
+
+Info 19/12/2019 23:05:22 - Closed connection at 19/12/2019 23:05:22 -03:00
+
+Info 19/12/2019 23:05:22 - Opened connection at 19/12/2019 23:05:22 -03:00
+
+Info 19/12/2019 23:05:22 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 23:05:22 - 
+
+Info 19/12/2019 23:05:22 - -- Executing at 19/12/2019 23:05:22 -03:00
+
+Info 19/12/2019 23:05:22 - -- Completed in 2 ms with result: SqlDataReader
+
+Info 19/12/2019 23:05:22 - 
+
+Info 19/12/2019 23:05:22 - Closed connection at 19/12/2019 23:05:22 -03:00
+
+Info 19/12/2019 23:12:24 - Opened connection at 19/12/2019 23:12:24 -03:00
+
+Info 19/12/2019 23:12:24 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 23:12:24 - 
+
+Info 19/12/2019 23:12:24 - -- Executing at 19/12/2019 23:12:24 -03:00
+
+Info 19/12/2019 23:12:24 - -- Completed in 1 ms with result: SqlDataReader
+
+Info 19/12/2019 23:12:24 - 
+
+Info 19/12/2019 23:12:24 - Closed connection at 19/12/2019 23:12:24 -03:00
+
+Info 19/12/2019 23:12:24 - Opened connection at 19/12/2019 23:12:24 -03:00
+
+Info 19/12/2019 23:12:24 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 23:12:24 - 
+
+Info 19/12/2019 23:12:24 - -- Executing at 19/12/2019 23:12:24 -03:00
+
+Info 19/12/2019 23:12:24 - -- Completed in 3 ms with result: SqlDataReader
+
+Info 19/12/2019 23:12:24 - 
+
+Info 19/12/2019 23:12:24 - Closed connection at 19/12/2019 23:12:24 -03:00
+
+Info 19/12/2019 23:13:41 - Opened connection at 19/12/2019 23:13:41 -03:00
+
+Info 19/12/2019 23:13:41 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 23:13:41 - 
+
+Info 19/12/2019 23:13:41 - -- Executing at 19/12/2019 23:13:41 -03:00
+
+Info 19/12/2019 23:13:41 - -- Completed in 2 ms with result: SqlDataReader
+
+Info 19/12/2019 23:13:41 - 
+
+Info 19/12/2019 23:13:41 - Closed connection at 19/12/2019 23:13:41 -03:00
+
+Info 19/12/2019 23:13:41 - Opened connection at 19/12/2019 23:13:41 -03:00
+
+Info 19/12/2019 23:13:41 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 23:13:41 - 
+
+Info 19/12/2019 23:13:41 - -- Executing at 19/12/2019 23:13:41 -03:00
+
+Info 19/12/2019 23:13:41 - -- Completed in 3 ms with result: SqlDataReader
+
+Info 19/12/2019 23:13:41 - 
+
+Info 19/12/2019 23:13:41 - Closed connection at 19/12/2019 23:13:41 -03:00
+
+Info 19/12/2019 23:14:10 - Opened connection at 19/12/2019 23:14:10 -03:00
+
+Info 19/12/2019 23:14:10 - SELECT TOP (2) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM [dbo].[Usuarios] AS [Extent1]
+    WHERE [Extent1].[Id] = @p__linq__0
+Info 19/12/2019 23:14:10 - 
+
+Info 19/12/2019 23:14:10 - -- p__linq__0: '0' (Type = Int32, IsNullable = false)
+
+Info 19/12/2019 23:14:10 - -- Executing at 19/12/2019 23:14:10 -03:00
+
+Info 19/12/2019 23:14:10 - -- Completed in 9 ms with result: SqlDataReader
+
+Info 19/12/2019 23:14:10 - 
+
+Info 19/12/2019 23:14:10 - Closed connection at 19/12/2019 23:14:10 -03:00
+
+Info 19/12/2019 23:14:14 - Opened connection at 19/12/2019 23:14:14 -03:00
+
+Info 19/12/2019 23:14:14 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 23:14:14 - 
+
+Info 19/12/2019 23:14:14 - -- Executing at 19/12/2019 23:14:14 -03:00
+
+Info 19/12/2019 23:14:14 - -- Completed in 2 ms with result: SqlDataReader
+
+Info 19/12/2019 23:14:14 - 
+
+Info 19/12/2019 23:14:14 - Closed connection at 19/12/2019 23:14:14 -03:00
+
+Info 19/12/2019 23:14:14 - Opened connection at 19/12/2019 23:14:14 -03:00
+
+Info 19/12/2019 23:14:14 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 23:14:14 - 
+
+Info 19/12/2019 23:14:14 - -- Executing at 19/12/2019 23:14:14 -03:00
+
+Info 19/12/2019 23:14:14 - -- Completed in 2 ms with result: SqlDataReader
+
+Info 19/12/2019 23:14:14 - 
+
+Info 19/12/2019 23:14:14 - Closed connection at 19/12/2019 23:14:14 -03:00
+
+Info 19/12/2019 23:16:33 - Opened connection at 19/12/2019 23:16:33 -03:00
+
+Info 19/12/2019 23:16:33 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 23:16:33 - 
+
+Info 19/12/2019 23:16:33 - -- Executing at 19/12/2019 23:16:33 -03:00
+
+Info 19/12/2019 23:16:33 - -- Completed in 6 ms with result: SqlDataReader
+
+Info 19/12/2019 23:16:33 - 
+
+Info 19/12/2019 23:16:33 - Closed connection at 19/12/2019 23:16:33 -03:00
+
+Info 19/12/2019 23:16:33 - Opened connection at 19/12/2019 23:16:33 -03:00
+
+Info 19/12/2019 23:16:33 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 23:16:33 - 
+
+Info 19/12/2019 23:16:33 - -- Executing at 19/12/2019 23:16:33 -03:00
+
+Info 19/12/2019 23:16:33 - -- Completed in 2 ms with result: SqlDataReader
+
+Info 19/12/2019 23:16:33 - 
+
+Info 19/12/2019 23:16:33 - Closed connection at 19/12/2019 23:16:33 -03:00
+
+Info 19/12/2019 23:18:05 - Opened connection at 19/12/2019 23:18:05 -03:00
+
+Info 19/12/2019 23:18:05 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 23:18:05 - 
+
+Info 19/12/2019 23:18:05 - -- Executing at 19/12/2019 23:18:05 -03:00
+
+Info 19/12/2019 23:18:05 - -- Completed in 15 ms with result: SqlDataReader
+
+Info 19/12/2019 23:18:05 - 
+
+Info 19/12/2019 23:18:05 - Closed connection at 19/12/2019 23:18:05 -03:00
+
+Info 19/12/2019 23:18:05 - Opened connection at 19/12/2019 23:18:05 -03:00
+
+Info 19/12/2019 23:18:05 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 23:18:05 - 
+
+Info 19/12/2019 23:18:05 - -- Executing at 19/12/2019 23:18:05 -03:00
+
+Info 19/12/2019 23:18:05 - -- Completed in 3 ms with result: SqlDataReader
+
+Info 19/12/2019 23:18:05 - 
+
+Info 19/12/2019 23:18:05 - Closed connection at 19/12/2019 23:18:05 -03:00
+
+Info 19/12/2019 23:18:14 - Opened connection at 19/12/2019 23:18:14 -03:00
+
+Info 19/12/2019 23:18:14 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 23:18:14 - 
+
+Info 19/12/2019 23:18:14 - -- Executing at 19/12/2019 23:18:14 -03:00
+
+Info 19/12/2019 23:18:14 - -- Completed in 2 ms with result: SqlDataReader
+
+Info 19/12/2019 23:18:14 - 
+
+Info 19/12/2019 23:18:14 - Closed connection at 19/12/2019 23:18:14 -03:00
+
+Info 19/12/2019 23:18:14 - Opened connection at 19/12/2019 23:18:14 -03:00
+
+Info 19/12/2019 23:18:14 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 23:18:14 - 
+
+Info 19/12/2019 23:18:14 - -- Executing at 19/12/2019 23:18:14 -03:00
+
+Info 19/12/2019 23:18:14 - -- Completed in 15 ms with result: SqlDataReader
+
+Info 19/12/2019 23:18:14 - 
+
+Info 19/12/2019 23:18:14 - Closed connection at 19/12/2019 23:18:14 -03:00
+
+Info 19/12/2019 23:43:10 - Opened connection at 19/12/2019 23:43:10 -03:00
+
+Info 19/12/2019 23:43:10 - SELECT 
+    [GroupBy1].[A1] AS [C1]
+    FROM ( SELECT 
+        COUNT(1) AS [A1]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [GroupBy1]
+Info 19/12/2019 23:43:10 - 
+
+Info 19/12/2019 23:43:10 - -- Executing at 19/12/2019 23:43:10 -03:00
+
+Info 19/12/2019 23:43:10 - -- Completed in 2 ms with result: SqlDataReader
+
+Info 19/12/2019 23:43:10 - 
+
+Info 19/12/2019 23:43:10 - Closed connection at 19/12/2019 23:43:10 -03:00
+
+Info 19/12/2019 23:43:10 - Opened connection at 19/12/2019 23:43:10 -03:00
+
+Info 19/12/2019 23:43:10 - SELECT TOP (50) 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[Nome] AS [Nome], 
+    [Extent1].[Sobrenome] AS [Sobrenome], 
+    [Extent1].[Email] AS [Email], 
+    [Extent1].[DataNascimento] AS [DataNascimento], 
+    [Extent1].[Escolaridade] AS [Escolaridade]
+    FROM ( SELECT [Extent1].[Id] AS [Id], [Extent1].[Nome] AS [Nome], [Extent1].[Sobrenome] AS [Sobrenome], [Extent1].[Email] AS [Email], [Extent1].[DataNascimento] AS [DataNascimento], [Extent1].[Escolaridade] AS [Escolaridade], row_number() OVER (ORDER BY [Extent1].[Id] DESC) AS [row_number]
+        FROM [dbo].[Usuarios] AS [Extent1]
+    )  AS [Extent1]
+    WHERE [Extent1].[row_number] > 0
+    ORDER BY [Extent1].[Id] DESC
+Info 19/12/2019 23:43:10 - 
+
+Info 19/12/2019 23:43:10 - -- Executing at 19/12/2019 23:43:10 -03:00
+
+Info 19/12/2019 23:43:10 - -- Completed in 3 ms with result: SqlDataReader
+
+Info 19/12/2019 23:43:10 - 
+
+Info 19/12/2019 23:43:10 - Closed connection at 19/12/2019 23:43:10 -03:00
+

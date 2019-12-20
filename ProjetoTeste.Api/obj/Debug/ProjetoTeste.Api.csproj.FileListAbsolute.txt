@@ -1,0 +1,179 @@
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\AutoMapper.Net4.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Api.dll.config
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Api.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Api.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\AutoMapper.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Common.API.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Common.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Common.Domain.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Common.Dto.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Enyim.Caching.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Enyim.Caching.Log4NetAdapter.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\log4net.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Bson.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Driver.Core.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Driver.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\MongoRepository.Net45.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Application.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Dto.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Filters.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Linq.Dynamic.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Cors.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.Cors.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\WebGrease.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\SimpleInjector.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Domain.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\SimpleInjector.Integration.Web.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Common.Infrastructure.Log.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.ORM.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Common.Infrastructure.Cache.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Common.Infrastructure.ORM.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Common.Cripto.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Common.StorageBase.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Common.NoSql.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Common.NoSql.Repository.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Application.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Application.dll.config
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Dto.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Filters.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\AutoMapper.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\AutoMapper.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\AutoMapper.Net4.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Enyim.Caching.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Enyim.Caching.Log4NetAdapter.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\log4net.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Bson.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Driver.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Driver.Core.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\MongoRepository.Net45.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.Cors.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\SimpleInjector.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Domain.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Domain.dll.config
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\SimpleInjector.Integration.Web.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.ORM.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.ORM.dll.config
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\obj\Debug\ProjetoTeste.Api.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\obj\Debug\ProjetoTeste.Api.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\obj\Debug\ProjetoTeste.Api.csproj.CopyComplete
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\obj\Debug\ProjetoTeste.Api.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\obj\Debug\ProjetoTeste.Api.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\AutoMapper.Net4.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Api.dll.config
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Api.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Api.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Antlr3.Runtime.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\AutoMapper.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Common.API.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Common.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Common.Domain.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Common.Dto.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\EntityFramework.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Enyim.Caching.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Enyim.Caching.Log4NetAdapter.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\log4net.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Bson.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Driver.Core.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Driver.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\MongoRepository.Net45.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Newtonsoft.Json.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Application.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Dto.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Filters.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Linq.Dynamic.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Cors.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Helpers.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Mvc.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Optimization.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Razor.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\WebGrease.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\SimpleInjector.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Domain.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Common.Infrastructure.Log.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.ORM.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Common.Infrastructure.Cache.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Common.Infrastructure.ORM.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Common.Cripto.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Common.StorageBase.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Common.NoSql.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Common.NoSql.Repository.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Application.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Application.dll.config
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Dto.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Filters.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Antlr3.Runtime.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\AutoMapper.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\AutoMapper.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\AutoMapper.Net4.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\EntityFramework.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Enyim.Caching.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Enyim.Caching.Log4NetAdapter.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\log4net.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Bson.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Driver.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\MongoDB.Driver.Core.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\MongoRepository.Net45.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\Newtonsoft.Json.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Helpers.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.Cors.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Mvc.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Optimization.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.Razor.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\SimpleInjector.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Domain.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.Domain.dll.config
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.ORM.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\bin\ProjetoTeste.ORM.dll.config
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\obj\Debug\ProjetoTeste.Api.csprojAssemblyReference.cache
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\obj\Debug\ProjetoTeste.Api.csproj.CopyComplete
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\obj\Debug\ProjetoTeste.Api.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\obj\Debug\ProjetoTeste.Api.pdb

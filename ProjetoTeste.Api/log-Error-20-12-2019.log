@@ -1,0 +1,350 @@
+Error 20/12/2019 02:41:39-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:47:52-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:47:55-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:47:56-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:47:57-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:48:04-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:48:09-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:49:28-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:49:30-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:49:32-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:50:26-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:53:44-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:53:56-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:53:57-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:58:01-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 02:59:45-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 03:01:52-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 03:02:25-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 03:17:09-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 09:45:24-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 12:15:06-Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.-Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.-   em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em Common.Infrastructure.ORM.Repositories.RepositoryBase`1.Commit()
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 72
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 12:18:11-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 12:24:07-The object cannot be deleted because it was not found in the ObjectStateManager.-The object cannot be deleted because it was not found in the ObjectStateManager.-   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity, EntitySet expectedEntitySet)
+   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity)
+   em System.Data.Entity.Internal.Linq.InternalSet`1.Remove(Object entity)
+   em System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Delete(T model)
+   em ProjetoTeste.Core.Domain.Usuarios.DeleteFromRepository(Usuarios alvo) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 175
+   em ProjetoTeste.Core.Domain.Usuarios.Delete(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 94
+   em ProjetoTeste.Core.Application.UsuariosApp.Delete(UsuariosDto dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 221
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Delete(UsuariosDto filter) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 161
+Error 20/12/2019 12:28:51-The object cannot be deleted because it was not found in the ObjectStateManager.-The object cannot be deleted because it was not found in the ObjectStateManager.-   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity, EntitySet expectedEntitySet)
+   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity)
+   em System.Data.Entity.Internal.Linq.InternalSet`1.Remove(Object entity)
+   em System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Delete(T model)
+   em ProjetoTeste.Core.Domain.Usuarios.DeleteFromRepository(Usuarios alvo) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 175
+   em ProjetoTeste.Core.Domain.Usuarios.Delete(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 94
+   em ProjetoTeste.Core.Application.UsuariosApp.Delete(UsuariosDto dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 221
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Delete(UsuariosDto filter) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 161
+Error 20/12/2019 12:29:00-The object cannot be deleted because it was not found in the ObjectStateManager.-The object cannot be deleted because it was not found in the ObjectStateManager.-   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity, EntitySet expectedEntitySet)
+   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity)
+   em System.Data.Entity.Internal.Linq.InternalSet`1.Remove(Object entity)
+   em System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Delete(T model)
+   em ProjetoTeste.Core.Domain.Usuarios.DeleteFromRepository(Usuarios alvo) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 175
+   em ProjetoTeste.Core.Domain.Usuarios.Delete(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 94
+   em ProjetoTeste.Core.Application.UsuariosApp.Delete(UsuariosDto dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 221
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Delete(UsuariosDto filter) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 161
+Error 20/12/2019 12:29:00-The object cannot be deleted because it was not found in the ObjectStateManager.-The object cannot be deleted because it was not found in the ObjectStateManager.-   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity, EntitySet expectedEntitySet)
+   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity)
+   em System.Data.Entity.Internal.Linq.InternalSet`1.Remove(Object entity)
+   em System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Delete(T model)
+   em ProjetoTeste.Core.Domain.Usuarios.DeleteFromRepository(Usuarios alvo) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 175
+   em ProjetoTeste.Core.Domain.Usuarios.Delete(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 94
+   em ProjetoTeste.Core.Application.UsuariosApp.Delete(UsuariosDto dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 221
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Delete(UsuariosDto filter) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 161
+Error 20/12/2019 12:29:59-The object cannot be deleted because it was not found in the ObjectStateManager.-The object cannot be deleted because it was not found in the ObjectStateManager.-   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity, EntitySet expectedEntitySet)
+   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity)
+   em System.Data.Entity.Internal.Linq.InternalSet`1.Remove(Object entity)
+   em System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Delete(T model)
+   em ProjetoTeste.Core.Domain.Usuarios.DeleteFromRepository(Usuarios alvo) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 175
+   em ProjetoTeste.Core.Domain.Usuarios.Delete(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 94
+   em ProjetoTeste.Core.Application.UsuariosApp.Delete(UsuariosDto dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 221
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Delete(UsuariosDto filter) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 161
+Error 20/12/2019 12:36:16-The object cannot be deleted because it was not found in the ObjectStateManager.-The object cannot be deleted because it was not found in the ObjectStateManager.-   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity, EntitySet expectedEntitySet)
+   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity)
+   em System.Data.Entity.Internal.Linq.InternalSet`1.Remove(Object entity)
+   em System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Delete(T model)
+   em ProjetoTeste.Core.Domain.Usuarios.DeleteFromRepository(Usuarios alvo) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 175
+   em ProjetoTeste.Core.Domain.Usuarios.Delete(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 94
+   em ProjetoTeste.Core.Application.UsuariosApp.Delete(UsuariosDto dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 221
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Delete(UsuariosDto filter) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 161
+Error 20/12/2019 12:36:33-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 12:37:02-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 12:37:16-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 12:38:41-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 12:49:29-Referência de objeto não definida para uma instância de um objeto.-Referência de objeto não definida para uma instância de um objeto.-   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Get(UsuariosFilter filters) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 61
+Error 20/12/2019 12:49:35-Referência de objeto não definida para uma instância de um objeto.-Referência de objeto não definida para uma instância de um objeto.-   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Get(UsuariosFilter filters) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 61
+Error 20/12/2019 12:50:43-Referência de objeto não definida para uma instância de um objeto.-Referência de objeto não definida para uma instância de um objeto.-   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Get(UsuariosFilter filters) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 61
+Error 20/12/2019 12:51:00-Referência de objeto não definida para uma instância de um objeto.-Referência de objeto não definida para uma instância de um objeto.-   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 80
+Error 20/12/2019 12:51:27-Referência de objeto não definida para uma instância de um objeto.-Referência de objeto não definida para uma instância de um objeto.-   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Get(UsuariosFilter filters) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 61
+Error 20/12/2019 12:51:48-Referência de objeto não definida para uma instância de um objeto.-Referência de objeto não definida para uma instância de um objeto.-   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Get(UsuariosFilter filters) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 61
+Error 20/12/2019 12:54:29-The object cannot be deleted because it was not found in the ObjectStateManager.-The object cannot be deleted because it was not found in the ObjectStateManager.-   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity, EntitySet expectedEntitySet)
+   em System.Data.Entity.Core.Objects.ObjectContext.DeleteObject(Object entity)
+   em System.Data.Entity.Internal.Linq.InternalSet`1.Remove(Object entity)
+   em System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Delete(T model)
+   em ProjetoTeste.Core.Domain.Usuarios.DeleteFromRepository(Usuarios alvo) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 175
+   em ProjetoTeste.Core.Domain.Usuarios.Delete(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 94
+   em ProjetoTeste.Core.Application.UsuariosApp.Delete(UsuariosDto dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 221
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Delete(UsuariosDto filter) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 161
+Error 20/12/2019 13:02:08-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-Member 'CurrentValues' cannot be called for the entity of type 'Usuarios' because the entity does not exist in the context. To add an entity to the context call the Add or Attach method of DbSet<Usuarios>.-   em System.Data.Entity.Internal.InternalEntityEntry.ValidateNotDetachedAndInitializeRelatedEnd(String method)
+   em System.Data.Entity.Internal.InternalEntityEntry.ValidateStateToGetValues(String method, EntityState invalidState)
+   em System.Data.Entity.Internal.InternalEntityEntry.get_CurrentValues()
+   em System.Data.Entity.Infrastructure.DbEntityEntry`1.get_CurrentValues()
+   em Common.Infrastructure.ORM.Repositories.Repository`2.Update(T modelNew, T modelOld)
+   em ProjetoTeste.Core.Domain.Usuarios.UpdateDefault(Usuarios model, Usuarios modelOld) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 134
+   em ProjetoTeste.Core.Domain.Usuarios.SaveDefault(Usuarios model, Boolean validation, Boolean questionToContinue) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.cs:linha 161
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 71
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 13:25:52-Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.-Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.-   em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em Common.Infrastructure.ORM.Repositories.RepositoryBase`1.Commit()
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 72
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112
+Error 20/12/2019 13:27:17-Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.-Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.-   em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em Common.Infrastructure.ORM.Repositories.RepositoryBase`1.Commit()
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 72
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112

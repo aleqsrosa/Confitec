@@ -1,0 +1,45 @@
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Domain.dll.config
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Domain.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Domain.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.API.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.Cna.Domain.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.Cna.Integration.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.Domain.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Filters.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Uri.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\RestSharp.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.Infrastructure.Log.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Util.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.StorageBase.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Filters.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Uri.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\RestSharp.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.csproj.CopyComplete
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Domain.dll.config
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Domain.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Domain.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.API.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.Cna.Domain.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.Cna.Integration.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.Domain.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Filters.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\RestSharp.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.Infrastructure.Log.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Util.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Common.StorageBase.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Filters.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\RestSharp.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.csprojAssemblyReference.cache
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.csproj.CopyComplete
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.pdb

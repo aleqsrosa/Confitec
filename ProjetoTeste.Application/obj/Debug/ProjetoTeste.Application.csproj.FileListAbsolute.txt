@@ -1,0 +1,101 @@
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\AutoMapper.Net4.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Application.dll.config
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Application.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Application.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\AutoMapper.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Cripto.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Domain.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Dto.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Infrastructure.Cache.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Infrastructure.Log.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Infrastructure.ORM.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Domain.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Dto.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Filters.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.ORM.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\SimpleInjector.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Web.Cors.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Web.Http.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.NoSql.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.NoSql.Repository.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.StorageBase.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Domain.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Domain.dll.config
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Dto.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Filters.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.ORM.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.ORM.dll.config
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\AutoMapper.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\AutoMapper.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\SimpleInjector.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Web.Http.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\obj\Debug\ProjetoTeste.Application.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\obj\Debug\ProjetoTeste.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\obj\Debug\ProjetoTeste.Application.csproj.CopyComplete
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\obj\Debug\ProjetoTeste.Application.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\obj\Debug\ProjetoTeste.Application.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Application.dll.config
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Application.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Application.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\AutoMapper.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Cripto.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Domain.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Dto.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Infrastructure.Cache.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Infrastructure.Log.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.Infrastructure.ORM.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\EntityFramework.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Domain.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Dto.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Filters.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.ORM.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\SimpleInjector.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Web.Cors.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Web.Http.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.NoSql.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.NoSql.Repository.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Common.StorageBase.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Domain.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Domain.dll.config
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Dto.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.Filters.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.ORM.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\ProjetoTeste.ORM.dll.config
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\AutoMapper.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\AutoMapper.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\EntityFramework.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\SimpleInjector.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Web.Http.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\obj\Debug\ProjetoTeste.Application.csprojAssemblyReference.cache
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\obj\Debug\ProjetoTeste.Application.csproj.CopyComplete
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\obj\Debug\ProjetoTeste.Application.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Application\obj\Debug\ProjetoTeste.Application.pdb

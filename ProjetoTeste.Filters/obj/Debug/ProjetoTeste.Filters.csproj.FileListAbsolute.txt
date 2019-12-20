@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Filters\bin\Debug\ProjetoTeste.Filters.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Filters\bin\Debug\ProjetoTeste.Filters.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Filters\bin\Debug\Common.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Filters\obj\Debug\ProjetoTeste.Filters.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Filters\obj\Debug\ProjetoTeste.Filters.csproj.CopyComplete
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Filters\obj\Debug\ProjetoTeste.Filters.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Filters\obj\Debug\ProjetoTeste.Filters.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Filters\bin\Debug\ProjetoTeste.Filters.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Filters\bin\Debug\ProjetoTeste.Filters.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Filters\bin\Debug\Common.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Filters\obj\Debug\ProjetoTeste.Filters.csproj.CopyComplete
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Filters\obj\Debug\ProjetoTeste.Filters.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.Filters\obj\Debug\ProjetoTeste.Filters.pdb

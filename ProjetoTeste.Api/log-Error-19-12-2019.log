@@ -1,0 +1,69 @@
+Error 19/12/2019 22:43:52-O tipo de metadados associado ao tipo 'ProjetoTeste.Core.Domain.Usuarios' contém as seguintes propriedades ou campos desconhecidos: Sexo, Ativo, DataCriacao. Verifique se os nomes desses membros correspondem aos nomes das propriedades no tipo principal.-O tipo de metadados associado ao tipo 'ProjetoTeste.Core.Domain.Usuarios' contém as seguintes propriedades ou campos desconhecidos: Sexo, Ativo, DataCriacao. Verifique se os nomes desses membros correspondem aos nomes das propriedades no tipo principal.-   em System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor.TypeDescriptorCache.CheckAssociatedMetadataType(Type mainType, Type associatedMetadataType)
+   em System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor.TypeDescriptorCache.ValidateMetadataType(Type type, Type associatedType)
+   em System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor..ctor(ICustomTypeDescriptor parent, Type type, Type associatedMetadataType)
+   em System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptionProvider.GetTypeDescriptor(Type objectType, Object instance)
+   em System.Data.Entity.ModelConfiguration.Utilities.AttributeProvider.GetAttributes(Type type)
+   em System.Data.Entity.ModelConfiguration.Conventions.TypeAttributeConfigurationConvention`1.<.ctor>b__1(Type t)
+   em System.Data.Entity.ModelConfiguration.Conventions.TypeConventionWithHavingBase`1.ApplyCore(Type memberInfo, ModelConfiguration modelConfiguration)
+   em System.Data.Entity.ModelConfiguration.Conventions.TypeConventionBase.Apply(Type memberInfo, ModelConfiguration modelConfiguration)
+   em System.Data.Entity.ModelConfiguration.Configuration.ConventionsConfiguration.ApplyModelConfiguration(Type type, ModelConfiguration modelConfiguration)
+   em System.Data.Entity.ModelConfiguration.Conventions.Convention.ApplyModelConfiguration(Type type, ModelConfiguration modelConfiguration)
+   em System.Data.Entity.ModelConfiguration.Configuration.ConventionsConfiguration.ApplyModelConfiguration(Type type, ModelConfiguration modelConfiguration)
+   em System.Data.Entity.ModelConfiguration.Mappers.TypeMapper.MapEntityType(Type type)
+   em System.Data.Entity.DbModelBuilder.<>c__DisplayClassd.<MapTypes>b__7(Type type)
+   em System.Linq.Enumerable.WhereListIterator`1.MoveNext()
+   em System.Data.Entity.Utilities.IEnumerableExtensions.Each[T](IEnumerable`1 ts, Action`1 action)
+   em System.Data.Entity.DbModelBuilder.MapTypes(EdmModel model)
+   em System.Data.Entity.DbModelBuilder.Build(DbProviderManifest providerManifest, DbProviderInfo providerInfo)
+   em System.Data.Entity.DbModelBuilder.Build(DbConnection providerConnection)
+   em System.Data.Entity.Internal.LazyInternalContext.CreateModel(LazyInternalContext internalContext)
+   em System.Data.Entity.Internal.RetryLazy`2.GetValue(TInput input)
+   em System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   em System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   em System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   em System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   em System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   em System.Linq.Queryable.OrderByDescending[TSource,TKey](IQueryable`1 source, Expression`1 keySelector)
+   em ProjetoTeste.Core.Application.UsuariosApp.PaginationDefault(UsuariosFilter filter, IQueryable`1 querySorting, PaginateResult`1 dataList) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 263
+   em ProjetoTeste.Core.Application.UsuariosApp.PagingAndSorting[T](UsuariosFilter filter, IQueryable`1 queryBase, Func`4 PaginationDefault) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 255
+   em ProjetoTeste.Core.Application.UsuariosApp.GetByFiltersWithCache(UsuariosFilter filter, Func`3 MapperDomainToDto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 286
+   em ProjetoTeste.Core.Application.UsuariosApp.GetByFilters(UsuariosFilter filter) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 52
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Get(UsuariosFilter filters) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 65
+Error 19/12/2019 22:50:53-O tipo de metadados associado ao tipo 'ProjetoTeste.Core.Domain.Usuarios' contém as seguintes propriedades ou campos desconhecidos: Escolatidade. Verifique se os nomes desses membros correspondem aos nomes das propriedades no tipo principal.-O tipo de metadados associado ao tipo 'ProjetoTeste.Core.Domain.Usuarios' contém as seguintes propriedades ou campos desconhecidos: Escolatidade. Verifique se os nomes desses membros correspondem aos nomes das propriedades no tipo principal.-   em System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor.TypeDescriptorCache.CheckAssociatedMetadataType(Type mainType, Type associatedMetadataType)
+   em System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor.TypeDescriptorCache.ValidateMetadataType(Type type, Type associatedType)
+   em System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor..ctor(ICustomTypeDescriptor parent, Type type, Type associatedMetadataType)
+   em System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptionProvider.GetTypeDescriptor(Type objectType, Object instance)
+   em System.Data.Entity.ModelConfiguration.Utilities.AttributeProvider.GetAttributes(Type type)
+   em System.Data.Entity.ModelConfiguration.Conventions.TypeAttributeConfigurationConvention`1.<.ctor>b__1(Type t)
+   em System.Data.Entity.ModelConfiguration.Conventions.TypeConventionWithHavingBase`1.ApplyCore(Type memberInfo, ModelConfiguration modelConfiguration)
+   em System.Data.Entity.ModelConfiguration.Conventions.TypeConventionBase.Apply(Type memberInfo, ModelConfiguration modelConfiguration)
+   em System.Data.Entity.ModelConfiguration.Configuration.ConventionsConfiguration.ApplyModelConfiguration(Type type, ModelConfiguration modelConfiguration)
+   em System.Data.Entity.ModelConfiguration.Conventions.Convention.ApplyModelConfiguration(Type type, ModelConfiguration modelConfiguration)
+   em System.Data.Entity.ModelConfiguration.Configuration.ConventionsConfiguration.ApplyModelConfiguration(Type type, ModelConfiguration modelConfiguration)
+   em System.Data.Entity.ModelConfiguration.Mappers.TypeMapper.MapEntityType(Type type)
+   em System.Data.Entity.DbModelBuilder.<>c__DisplayClassd.<MapTypes>b__7(Type type)
+   em System.Linq.Enumerable.WhereListIterator`1.MoveNext()
+   em System.Data.Entity.Utilities.IEnumerableExtensions.Each[T](IEnumerable`1 ts, Action`1 action)
+   em System.Data.Entity.DbModelBuilder.MapTypes(EdmModel model)
+   em System.Data.Entity.DbModelBuilder.Build(DbProviderManifest providerManifest, DbProviderInfo providerInfo)
+   em System.Data.Entity.DbModelBuilder.Build(DbConnection providerConnection)
+   em System.Data.Entity.Internal.LazyInternalContext.CreateModel(LazyInternalContext internalContext)
+   em System.Data.Entity.Internal.RetryLazy`2.GetValue(TInput input)
+   em System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   em System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   em System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   em System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   em System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   em System.Linq.Queryable.OrderByDescending[TSource,TKey](IQueryable`1 source, Expression`1 keySelector)
+   em ProjetoTeste.Core.Application.UsuariosApp.PaginationDefault(UsuariosFilter filter, IQueryable`1 querySorting, PaginateResult`1 dataList) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 263
+   em ProjetoTeste.Core.Application.UsuariosApp.PagingAndSorting[T](UsuariosFilter filter, IQueryable`1 queryBase, Func`4 PaginationDefault) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 255
+   em ProjetoTeste.Core.Application.UsuariosApp.GetByFiltersWithCache(UsuariosFilter filter, Func`3 MapperDomainToDto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 286
+   em ProjetoTeste.Core.Application.UsuariosApp.GetByFilters(UsuariosFilter filter) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 52
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Get(UsuariosFilter filters) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 65
+Error 19/12/2019 23:14:10-Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.-Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.-   em System.Data.Entity.Internal.InternalContext.SaveChanges()
+   em System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   em System.Data.Entity.DbContext.SaveChanges()
+   em Common.Infrastructure.ORM.Repositories.RepositoryBase`1.Commit()
+   em ProjetoTeste.Core.Domain.Usuarios.Save(Usuarios model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Domain\Models\Usuarios\Usuarios.ext.cs:linha 72
+   em ProjetoTeste.Core.Application.UsuariosApp.Save(UsuariosDtoSpecialized dto) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Application\Application\UsuariosApp.cs:linha 183
+   em ProjetoTeste.Core.Api.Controllers.UsuariosController.Post(UsuariosDtoSpecialized model) na C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.Api\Controllers\UsuariosController.cs:linha 112

@@ -1,0 +1,44 @@
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.ORM.dll.config
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.ORM.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.ORM.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\Common.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\Common.Domain.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\Common.Infrastructure.Log.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\Common.Infrastructure.ORM.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.Domain.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.Filters.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\Common.StorageBase.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.Domain.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.Domain.dll.config
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.Filters.pdb
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\obj\Debug\ProjetoTeste.ORM.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\obj\Debug\ProjetoTeste.ORM.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\obj\Debug\ProjetoTeste.ORM.csproj.CopyComplete
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\obj\Debug\ProjetoTeste.ORM.dll
+C:\Users\HP\Desktop\Developer Class\Projeto Teste\ProjetoTeste\ProjetoTeste.ORM\obj\Debug\ProjetoTeste.ORM.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.ORM.dll.config
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.ORM.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.ORM.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\Common.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\Common.Domain.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\Common.Infrastructure.Log.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\Common.Infrastructure.ORM.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\EntityFramework.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.Domain.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.Filters.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\Common.StorageBase.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.Domain.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.Domain.dll.config
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\EntityFramework.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\bin\Debug\ProjetoTeste.Filters.pdb
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\obj\Debug\ProjetoTeste.ORM.csprojAssemblyReference.cache
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\obj\Debug\ProjetoTeste.ORM.csproj.CopyComplete
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\obj\Debug\ProjetoTeste.ORM.dll
+C:\Users\Target Software\Desktop\Publish\ProjetoTeste\ProjetoTeste.ORM\obj\Debug\ProjetoTeste.ORM.pdb
